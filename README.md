@@ -1,4 +1,4 @@
-# AgroBots-QR: QR Codes for Data Collection
+# AgroQR: QR Codes for Data Collection
 
 We introduce an innovative information capture device, revolutionizing environmental monitoring in open settings such as agriculture. Our product is a physical QR code sticker, where each pixel functions as a responsive sensor, akin to litmus paper, undergoing distinct color changes in the presence of specific airborne chemicals. Over the course of months, this QR code device serves as a dynamic data aggregator, meticulously recording environmental factors like temperature, humidity, pesticides, insecticides, fertilizers, sunlight exposure, and daylight hours.
 
