@@ -37,12 +37,12 @@
       "trend": null
     },
     "sunlight_exposure": {
-      "value": null
+      "value": null,
       "unit": "lux",
       "trend": null
     },
     "soil_moisture": {
-      "value": null
+      "value": null,
       "unit": "%",
       "trend": null
     }
