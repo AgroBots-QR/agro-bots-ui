@@ -20,6 +20,7 @@
     },
     "operational_info": {
       "last_maintenance_date": "2024-04-10",
+      "number_of_scans": null,
       "error_logs": 0
     }
   },
