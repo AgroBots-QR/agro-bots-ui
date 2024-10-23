@@ -1,0 +1,60 @@
+{
+  "qr_code_id": "G8aLyj4KBM",
+  "metadata": {
+    "last_scan_timestamp": "2024-10-22T20:16:08Z",
+    "device_type": "AgroQR_temp_only",
+    "version": "3.0",
+    "sensor_placement": {
+      "zone": "Ann Arbor",
+      "zip": "48109",
+      "location_description": "M-Air, North Campus–University of Michigan",
+      "mount_installation_date": "2024-10-15",
+      "primary_user": "Michigan Robotics"
+    },
+    "sensor_status": "active",
+    "maintenance_due": "2025-05-01",
+    "geolocation": {
+      "latitude": 42.294528, 
+      "longitude": -83.710533,
+      "confidence": 100
+    },
+    "operational_info": {
+      "last_maintenance_date": "2024-04-10",
+      "number_of_scans": null,
+      "error_logs": 0
+    }
+  },
+  "sensing_data": {
+    "temperature": {
+      "value": 77,
+      "unit": "Fahrenheit",
+      "trend": "stable",
+      "max": 78.2,
+      "min": 75.3
+    },
+    "humidity": {
+      "value": null,
+      "unit": "%",
+      "trend": null
+    },
+    "sunlight_exposure": {
+      "value": null,
+      "unit": "lux",
+      "trend": null
+    },
+    "soil_moisture": {
+      "value": null,
+      "unit": "%",
+      "trend": null
+    }
+  },
+  "alerts": {
+    "temperature_threshold_exceeded": false,
+    "maintenance_required": false,
+    "environmental_alerts": {
+      "high_wind": false,
+      "heavy_rain": false,
+      "extreme_temperature": false
+    }
+  }
+}
