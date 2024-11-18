@@ -1,7 +1,7 @@
 {
   "qr_code_id": "N3LEfugjfh",
   "metadata": {
-    "last_scan_timestamp": "2024-10-21T20:09:47Z",
+    "last_scan_timestamp": "2024-10-22T02:09:47Z",
     "device_type": "AgroQR_temp_only",
     "version": "3.0",
     "sensor_placement": {
@@ -26,11 +26,11 @@
   },
   "sensing_data": {
     "temperature": {
-      "value": 77,
+      "value": 62,
       "unit": "Fahrenheit",
       "trend": "stable",
-      "max": 77.6,
-      "min": 75.6
+      "max": 62.6,
+      "min": 60.6
     },
     "humidity": {
       "value": null,
