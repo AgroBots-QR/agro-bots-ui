@@ -1,7 +1,7 @@
 {
   "qr_code_id": "qIKgNUbwWn",
   "metadata": {
-    "last_scan_timestamp": "2024-10-22T20:04:04Z",
+    "last_scan_timestamp": "2024-10-22T02:10:12Z",
     "device_type": "AgroQR_temp_only",
     "version": "3.0",
     "sensor_placement": {
@@ -14,8 +14,8 @@
     "sensor_status": "active",
     "maintenance_due": "2025-05-01",
     "geolocation": {
-      "latitude": 42.294503,
-      "longitude": -83.710368,
+      "latitude": 42.294475,
+      "longitude": -83.710410,
       "confidence": 100
     },
     "operational_info": {
@@ -26,11 +26,11 @@
   },
   "sensing_data": {
     "temperature": {
-      "value": 75,
+      "value": 62,
       "unit": "Fahrenheit",
       "trend": "stable",
-      "max": 76.9,
-      "min": 74.3
+      "max": 62.6,
+      "min": 59
     },
     "humidity": {
       "value": null,
