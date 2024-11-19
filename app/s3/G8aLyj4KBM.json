@@ -14,8 +14,8 @@
     "sensor_status": "active",
     "maintenance_due": "2025-05-01",
     "geolocation": {
-      "latitude": 42.294528, 
-      "longitude": -83.710533,
+      "latitude": 42.294477, 
+      "longitude": -83.710409,
       "confidence": 100
     },
     "operational_info": {
